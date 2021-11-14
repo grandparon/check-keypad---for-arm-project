@@ -1,3 +1,6 @@
+/**
+ * Check if keypad sends the right number
+ */
 // There are 12 keys on this 12 keys on this keypad.. We need numbers for the '*' key and the '#' key.
 // '*'  will be 10
 // '#'  will be 12
